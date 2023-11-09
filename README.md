@@ -4,7 +4,7 @@
 <p  align="center" > I learned MERN Full Stack Web Development at Masai School.
 I chose Computer Science as an additional subject at school. After that I pursued graduation in Computer Science & master's in Computer Science and finally decided to do my specialization in web development. </p><br><br>
 
-<img align="right" width="440px" src="https://thumbs.dreamstime.com/b/media-developer-female-office-177619965.jpg" alt="">
+<img align="right" width="440px" src="https://www.freepik.com/premium-vector/contact-us-flat-boy-background_4624888.htm#from_view=detail_alsolike" alt="">
 
 - 🌱 I’m **MERN Stack Developer**
 
